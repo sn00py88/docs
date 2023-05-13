@@ -1,5 +1,2 @@
-## Docs
 
-### Docs
-
-[<-Back](/)
+[<- back](/)
